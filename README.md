@@ -1,5 +1,5 @@
 ![Image-Epitech](https://newsroom.ionis-group.com/wp-content/uploads/2021/10/LOGO-EPITECH-BASELINE-QUADRI-2021.png)
-<h1 align="center">Hello, I'm Alexis, students on Epitech</h1>
+<h1 align="center">Hello, I'm Alexis, student in Epitech</h1>
 
 ### **My Network**:
 * Discord: Fizzey#9404
