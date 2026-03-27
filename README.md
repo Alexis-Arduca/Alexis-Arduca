@@ -54,8 +54,8 @@
 
 ### 🎯 En ce moment
 
-Je suis à la recherche d’un **stage de fin d’études** en développement de jeux vidéo :  
-**Début mars 2026 → fin août 2026**
+Je suis à la recherche d’un **stage de fin d’études** en développement :  
+**Début avril 2026 → fin août 2026**
 
 N’hésite pas à consulter mon [portfolio](https://alexis-arduca.github.io/Portfolio/) pour plus d’informations !
 
