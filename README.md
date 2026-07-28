@@ -1,18 +1,34 @@
-![Epitech](https://newsroom.ionis-group.com/wp-content/uploads/2021/10/LOGO-EPITECH-BASELINE-QUADRI-2021.png)
+<div align="center">
 
-<h1 align="center">Hello, I'm Alexis Arduca</h1>
-<h3 align="center">Étudiant en 5ᵉ année à Epitech Montpellier • Passionné de développement de jeux vidéo</h3>
+<img src="https://newsroom.ionis-group.com/wp-content/uploads/2021/10/LOGO-EPITECH-BASELINE-QUADRI-2021.png" width="260" alt="Epitech"/>
 
----
+# 👋 Salut, je suis Alexis Arduca
 
-### 🌐 Mes liens
+### Étudiant en 5ᵉ année à Epitech Montpellier · Passionné de développement de jeux vidéo
 
-- **Portfolio** → [alexis-arduca.github.io/Portfolio](https://alexis-arduca.github.io/Portfolio/)
-- **Unite Tools** (site que j’entretiens) → [unite-tools.com](https://unite-tools.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Game+Developer+%F0%9F%8E%AE;Unity+%26+C%2B%2B+Enthusiast;Toujours+en+train+d'apprendre" alt="Typing SVG" />
 
----
+</div>
 
-### 🛠️ Languages & Technologies
+<br>
+
+## 🌐 Mes liens
+
+<p align="center">
+  <a href="https://alexis-arduca.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-2E86C1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://unite-tools.com">
+    <img src="https://img.shields.io/badge/Unite%20Tools-F5A623?style=for-the-badge&logo=pokemon&logoColor=white" alt="Unite Tools"/>
+  </a>
+  <a href="https://github.com/Alexis-Arduca">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<br>
+
+## 🛠️ Languages & Technologies
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -41,25 +57,40 @@
   </a>
 </p>
 
----
+<br>
 
-### 🚀 Projets en vedette
+## 🚀 Projets en vedette
 
-- **[Unite Tools](https://github.com/FizzeyDev/UniteTools)** — Suite d’outils web pour Pokémon Unite (Draft, Timer, Tierlist, Calculator etc ...) en HTML, CSS & JavaScript.
-- **[Little Monsters](https://github.com/Alexis-Arduca/MonsterProject)** — Jeu 3D Unity pour enfants réalisé en groupe à Saxion (Pays-Bas).
-- **[Shenanigans](https://github.com/Alexis-Arduca/Shenanigans)** — Jeu 2D Multijoueur coopératif réalisé en groupe à Saxion (Pays-Bas).
+<table>
+  <tr>
+    <td>🧰</td>
+    <td><a href="https://github.com/FizzeyDev/UniteTools"><b>Unite Tools</b></a></td>
+    <td>Suite d'outils web pour Pokémon Unite (Draft, Timer, Tierlist, Calculator, etc.) en HTML, CSS & JavaScript.</td>
+  </tr>
+  <tr>
+    <td>👾</td>
+    <td><a href="https://github.com/Alexis-Arduca/MonsterProject"><b>Little Monsters</b></a></td>
+    <td>Jeu 3D Unity pour enfants, réalisé en groupe à Saxion (Pays-Bas).</td>
+  </tr>
+  <tr>
+    <td>🎮</td>
+    <td><a href="https://github.com/Alexis-Arduca/Shenanigans"><b>Shenanigans</b></a></td>
+    <td>Jeu 2D multijoueur coopératif, réalisé en groupe à Saxion (Pays-Bas).</td>
+  </tr>
+</table>
 
----
+<br>
 
-### 🎯 En ce moment
+## 🎯 En ce moment
 
-Je travaille chez **CGI** Montpellier en tant que stagiaire depuis le **20 Avril 2026**
+Je travaille chez **CGI Montpellier** en tant que stagiaire depuis le **20 avril 2026**.
+N'hésite pas à consulter mon [portfolio](https://alexis-arduca.github.io/Portfolio/) pour plus d'informations !
 
-N’hésite pas à consulter mon [portfolio](https://alexis-arduca.github.io/Portfolio/) pour plus d’informations !
+<br>
 
----
+⭐ **Merci de passer sur mon profil !**
+N'hésite pas à explorer mes repositories et à me faire un retour sur mes projets.
 
-⭐ Merci de passer sur mon profil !  
-Tu peux explorer mes repositories et me donner ton retour sur mes projets.
+*Dernière mise à jour : Juillet 2026*
 
-*Dernière mise à jour : Mars 2026*
+</div>
