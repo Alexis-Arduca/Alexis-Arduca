@@ -45,17 +45,15 @@
 
 ### 🚀 Projets en vedette
 
-- **[Unite Tools](https://github.com/FizzeyDev/UniteTools)** — Suite d’outils web pour Pokémon Unite (Draft, Timer, Calculateur de dégâts, Tier List) en HTML, CSS & JavaScript.
-- **[zeldalikegame](https://github.com/Alexis-Arduca/zeldalikegame)** — Jeu type *The Legend of Zelda* développé avec Unity.
+- **[Unite Tools](https://github.com/FizzeyDev/UniteTools)** — Suite d’outils web pour Pokémon Unite (Draft, Timer, Tierlist, Calculator etc ...) en HTML, CSS & JavaScript.
 - **[Little Monsters](https://github.com/Alexis-Arduca/MonsterProject)** — Jeu 3D Unity pour enfants réalisé en groupe à Saxion (Pays-Bas).
-- **[Shenanigans](https://github.com/Alexis-Arduca/Shenanigans)** — Projet Innovation (Epitech).
+- **[Shenanigans](https://github.com/Alexis-Arduca/Shenanigans)** — Jeu 2D Multijoueur coopératif réalisé en groupe à Saxion (Pays-Bas).
 
 ---
 
 ### 🎯 En ce moment
 
-Je suis à la recherche d’un **stage de fin d’études** en développement :  
-**Début avril 2026 → fin août 2026**
+Je travaille chez **CGI** Montpellier en tant que stagiaire depuis le **20 Avril 2026**
 
 N’hésite pas à consulter mon [portfolio](https://alexis-arduca.github.io/Portfolio/) pour plus d’informations !
 
