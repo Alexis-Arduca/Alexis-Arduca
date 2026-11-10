@@ -68,6 +68,16 @@
     <td>Suite d'outils web pour Pokémon Unite (Draft, Timer, Tierlist, Calculator, etc.) en HTML, CSS & JavaScript.</td>
   </tr>
   <tr>
+    <td>🧮</td>
+    <td><a href="https://github.com/FizzeyDev/ChampionsTools"><b>Champions Tools</b></a></td>
+    <td>Calculateur de dégâts pour Pokémon Champions, basé sur le moteur de calcul de Smogon, en TypeScript, Next.js & React. <a href="https://fizzeydev.github.io/ChampionsTools/">Voir le site</a></td>
+  </tr>
+  <tr>
+    <td>🎴</td>
+    <td><a href="https://cartouche.app-tcg.workers.dev/"><b>Cartouche</b></a></td>
+    <td>Jeu de cartes à collectionner gratuit, sans pub ni achat intégré, avec des personnages de jeux vidéo : boosters en forme de cartouches, six raretés, missions et quiz quotidiens. Bêta jusqu'au dimanche 15 novembre, sortie le lundi 16.</td>
+  </tr>
+  <tr>
     <td>👾</td>
     <td><a href="https://github.com/Alexis-Arduca/MonsterProject"><b>Little Monsters</b></a></td>
     <td>Jeu 3D Unity pour enfants, réalisé en groupe à Saxion (Pays-Bas).</td>
@@ -83,7 +93,7 @@
 
 ## 🎯 En ce moment
 
-Je travaille chez **CGI Montpellier** en tant que stagiaire depuis le **20 avril 2026**.
+J'ai terminé mon stage chez **CGI** et je suis officiellement en **CDI chez CGI** depuis le **lundi 19 octobre 2026**. 🎉
 N'hésite pas à consulter mon [portfolio](https://alexis-arduca.github.io/Portfolio/) pour plus d'informations !
 
 <br>
@@ -91,6 +101,4 @@ N'hésite pas à consulter mon [portfolio](https://alexis-arduca.github.io/Portf
 ⭐ **Merci de passer sur mon profil !**
 N'hésite pas à explorer mes repositories et à me faire un retour sur mes projets.
 
-*Dernière mise à jour : Juillet 2026*
-
-</div>
+*Dernière mise à jour : Novembre 2026*
